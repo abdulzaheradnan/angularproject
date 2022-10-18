@@ -1,0 +1,18 @@
+git commands
+
+cd go into file>
+git init => for local repositery
+type=
+git remote add origin reposit link
+to add all file type=
+git add  .
+and set commit=
+got commit -m "this is my repositery"  ,
+after commit we need to push the repositery in git=
+git push
+if it doesent work type command=  git push --set-upstream origin master
+
+
+CI=continues integrity
+CD=continues deployment
+
